@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorWeb", "GestorWeb\GestorWeb.csproj", "{B47FFD49-8C97-495B-B385-0D7190A79B2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B47FFD49-8C97-495B-B385-0D7190A79B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47FFD49-8C97-495B-B385-0D7190A79B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47FFD49-8C97-495B-B385-0D7190A79B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47FFD49-8C97-495B-B385-0D7190A79B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D67F808B-D0DB-4E5A-9633-3919C5C2411C}
+	EndGlobalSection
+EndGlobal
